@@ -87,6 +87,7 @@ function handleCardClick() {
 
     matchCards();
     flippedCard = false;
+    console.log("hello");
   }
 }
 // Create function for match cards
